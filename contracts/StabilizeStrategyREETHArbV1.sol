@@ -924,7 +924,7 @@ contract StabilizeStrategyREETHArbV1 is Ownable {
                     // Sell a percentage of this gain for ETH
                     // Calculate the growth due to percent change
                     // Formula: new tokens = token_balance - token_balance / (1 + percent_change)
-                    uint256 _amount = tokenList[0].token.balanceOf(address(this)).mul(1e18).div(DIVISION_FACTOR.add(percentChange));
+                    uint256 _amount = tokenList[0].token.balanceOf(address(this)).mul(1e18).mul(DIVISION_FACTOR).div(DIVISION_FACTOR.add(percentChange));
                     _amount = tokenList[0].token.balanceOf(address(this)).mul(1e18).sub(_amount).div(1e18);
                     _amount = _amount.mul(maxPercentSellPostRebase).div(DIVISION_FACTOR);
                     return (true, _amount);
