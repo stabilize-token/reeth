@@ -14,7 +14,7 @@ Reeth LP Farm: https://etherscan.io/address/0x78a4ba5b04e75Ce1CB8c1f64906B06469B
 
 zs-REETH Token: https://etherscan.io/address/0xe9979d2fa20a71F64eA0b6055121Fa2bC578fAEB
 
-zs-REETH Strategy V1: https://etherscan.io/address/0xa46E86bBE84a98FCA097addaC41A7494Da33A1ff
+zs-REETH Strategy V1: https://etherscan.io/address/0x180EAC22d6F7BAC509978ac9bE3CA6E2C1754Da9
 
 zs-REETH ClaimableStaker: https://etherscan.io/address/0xaB9f4a5d1A81e9a92B0B45b940562FA4884d222f
 
