@@ -6,7 +6,7 @@ pReeth Token: https://etherscan.io/address/0x148054772BF9d95E48C8E32868F8e3c4979
 
 Reeth Token: https://etherscan.io/address/0xe804964c296E9FB666fBE67767838c1FF9Ab3209
 
-Reeth Monetary Policy V1: https://etherscan.io/address/0xD6aa14D6C15C23CB5295464374BF315345B9C66F
+Reeth Monetary Policy V2: https://etherscan.io/address/0x86f9bC1C72942600a8e4A3429315E90559B5c0b8
 
 Reeth Price Oracle: https://etherscan.io/address/0x0f1f24BdCcb632e33888fEaf73D05dD851B811Ec
 
@@ -27,6 +27,9 @@ Reeth Buyback Treasury: https://etherscan.io/address/0x55D39BAe64DcBF66AF250Db95
 Reeth Trade Router V1: https://etherscan.io/address/0x90d60BE875b526de78dD5E2Db3A5bfA34F6a6649
 
 Reeth Router Fee Contract: https://etherscan.io/address/0xDDD7aA46ab065453429aa747Af73fbDa97DF14f7
+
+## Inactive Contracts
+Reeth Monetary Policy V1: https://etherscan.io/address/0xD6aa14D6C15C23CB5295464374BF315345B9C66F
 
 ## Read our Medium:
 Medium: https://medium.com/@stabilize
